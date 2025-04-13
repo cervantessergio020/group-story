@@ -1,0 +1,8 @@
+a. why did you branch prior to making changes?
+So it didnt mess up the main branch. making a branch let me add my part without affecting the original file
+
+b. what is git status? what is the diff. between git status  before and after commit?
+git status shows you what changed and before commit it tells you what fies have been changes and what is going on in the working directory. When you do it after commit it tells you eveythging is cleam
+
+How do you rsolev the merge conflcit in steo 5 from question 1?
+WHen i opend the file in vscode and saw the conflict i clicked accceot both changes and than i saved it so both version of the seocnd line were included and commited it to finishe the merge. 
